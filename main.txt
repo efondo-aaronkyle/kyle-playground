@@ -18,3 +18,10 @@ Birthday: November 23, 2004
 Gender: Male
 Year-level: 2nd Year
 Course: BSIT
+
+Name: Abrianne Buenacifra
+Age: 20
+Birthday: April 27, 2004
+Gender: Female
+Year-level: 2nd Year
+Course: BSIT
