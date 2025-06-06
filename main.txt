@@ -1,0 +1,6 @@
+Name: Aaron Kyle Efondo
+Age: 20
+Birthday: June 7, 2004
+Gender: Male
+Year-Level: 2nd Year
+Course: BSIT
