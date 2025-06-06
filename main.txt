@@ -4,3 +4,10 @@ Birthday: June 7, 2004
 Gender: Male
 Year-Level: 2nd Year
 Course: BSIT
+
+Name: Ernesto Bernas III.
+Age: 20
+Birthday: January 11, 2004
+Gender: Male
+Year-Level: 2nd Year
+Course: BSIT
