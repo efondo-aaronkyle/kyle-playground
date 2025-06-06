@@ -11,3 +11,10 @@ Birthday: January 11, 2004
 Gender: Male
 Year-level: 2nd Year
 Course: BSIT
+
+Name: Gian Rafael Roldan
+Age: 20
+Birthday: August 4, 2004
+Gender: Male
+Year-level: 2nd Year
+Course: BSIT
