@@ -31,3 +31,7 @@ jobs:
         python app.py & 
         sleep 3
         curl -f http://127.0.0.1:5000
+
+    - name: Run simple unit test
+      run: |
+        python test_app.py
