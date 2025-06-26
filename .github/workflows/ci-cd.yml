@@ -39,4 +39,4 @@ jobs:
     - name: Deploy to Render
       if: github.ref == 'refs/heads/main' && success()
       run: |
-        curl -X POST https://api.render.com/deploy/srv-d1ed05fgi27c73efbor0?key=wUvMBREhNgo
+        curl -X POST ${{ secrets.RENDER_DEPLOY_URL}}
